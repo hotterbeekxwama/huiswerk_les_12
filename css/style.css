@@ -1,0 +1,144 @@
+#kop {
+    width: 1200px;
+    height: 100px;
+    background-color: orange;
+}
+
+#voet {
+    width: 1200px;
+    height: 100px;
+    background-color: rgb(255, 123, 0);
+}
+
+#vlag_1 {
+    width: 1200px;
+    height: 200px;
+    background-color: rgb(226, 43, 43);
+    border: 3px solid black;
+}
+
+#vlag_2 {
+    width: 1200px;
+    height: 305px;
+    border: 3px solid black;
+}
+
+#vlag_3 {
+    width: 1200px;
+    height: 200px;
+    background-color: rgb(28, 17, 236);
+    color: lightblue;
+    border: 3px solid black;
+}
+
+table {
+    background-color: rgb(232, 241, 241);
+    width: 1200px;
+    height: 200px;
+}
+
+td {
+    border: 1px solid rgb(3, 84, 3);
+}
+
+#cel_11 {
+    background-color: rgba(249, 162, 1, 0.988);
+}
+
+#cel_21 {
+    background-color: rgba(249, 130, 25, 0.897);
+}
+
+#cel_31 {
+    background-color: rgba(249, 141, 19, 0.635);
+}
+
+#cel_41 {
+    background-color: rgb(249, 93, 11);
+}
+
+#cel_12 {
+    background-color: rgba(1, 42, 249, 0.988);
+}
+
+#cel_22 {
+    background-color: rgba(249, 25, 73, 0.897);
+}
+
+#cel_32 {
+    background-color: rgba(19, 249, 38, 0.635);
+}
+
+#cel_42 {
+    background-color: rgb(11, 178, 249);
+}
+
+
+#cel_13 {
+    background-color: rgba(250, 213, 1, 0.988);
+}
+
+#cel_23 {
+    background-color: rgba(230, 220, 25, 0.897);
+}
+
+#cel_33 {
+    background-color: rgba(230, 234, 19, 0.635);
+}
+
+#cel_43 {
+    background-color: rgb(230, 183, 11);
+}
+
+#cel_14 {
+    background-color: rgba(77, 19, 19, 0.988);
+}
+
+#cel_24 {
+    background-color: rgba(79, 62, 138, 0.897);
+}
+
+#cel_34 {
+    background-color: rgba(59, 185, 74, 0.635);
+}
+
+#cel_44 {
+    background-color: rgb(215, 8, 223);
+}
+
+
+img {
+    height: 50px;
+}
+
+p1 {
+    background-color: aquamarine;
+}
+
+p2 {
+    background-color: brown;
+}
+
+p3 {
+    background-color: chocolate;
+}
+
+p4 {
+    background-color: darkmagenta;
+}
+
+p5 {
+    background-color: fuchsia;
+}
+
+p6 {
+    background-color: goldenrod;
+}
+
+p7 {
+    background-color: hotpink;
+}
+
+p8 {
+    background-color: ivory;
+}
